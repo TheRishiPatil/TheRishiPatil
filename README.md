@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Rishikesh Patil</h1>
 
+Java, Spring Boot, and DSA Enthusiast | MySQL, HTML, and CSS Additional Known Languages | Backend Projects | Problem Solving | Learning and Developing
+
  <div>
         <p>Social Handles:</p>
         <div>
