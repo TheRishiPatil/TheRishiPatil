@@ -8,26 +8,25 @@ CSS. Every coding project is constructed from the ground up, starting with the s
 webpages and continuing through the coding of the backend and frontend. Dedicated to solving complex problems
 through code and projects.</p>
 
-<h4>Socials:</h4>
-
 <img align="right" src="gif.gif" width="300px">
 
+<h4>Socials:</h4>
 <p align="left">
-<a href="https://www.linkedin.com/in/patilrishikesh">
-<img src="linkedin.png" alt="instagram" width="30px">
-</a>
-&nbsp; <a href="https://wa.me/919137108042">
-<img src="whatsapp.png" alt="instagram" width="30px">
-</a>
-&nbsp; <a href="https://github.com/TheRishiPatil">
-<img src="github.png" alt="instagram" width="30px">
-</a>
-&nbsp; <a href="https://twitter.com/Rishi9137108042">
-<img src="twitter.png" alt="instagram" width="30px">
-</a>
-&nbsp; <a href="https://www.instagram.com/i_a_m_i_r_o_n_m_a_n/">
-<img src="instagram.png" alt="instagram" width="30px">
-</a>
+  <a href="https://www.linkedin.com/in/patilrishikesh">
+  <img src="linkedin.png" alt="instagram" width="30px">
+  </a>
+  &nbsp; <a href="https://wa.me/919137108042">
+  <img src="whatsapp.png" alt="instagram" width="30px">
+  </a>
+  &nbsp; <a href="https://github.com/TheRishiPatil">
+  <img src="github.png" alt="instagram" width="30px">
+  </a>
+  &nbsp; <a href="https://twitter.com/Rishi9137108042">
+  <img src="twitter.png" alt="instagram" width="30px">
+  </a>
+  &nbsp; <a href="https://www.instagram.com/i_a_m_i_r_o_n_m_a_n/">
+  <img src="instagram.png" alt="instagram" width="30px">
+  </a>
 </p>
 
 <h4>Languages Used:</h4>
