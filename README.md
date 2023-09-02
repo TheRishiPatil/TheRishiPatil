@@ -1,6 +1,6 @@
    <img src="bg.jpg" alt="banner" width="100%">
 
-   <h1>Hi 👋, I'm Rishikesh Patil</h1>
+   #Hi 👋, I'm Rishikesh Patil
 
    **'Java, Spring Boot, and DSA Enthusiast | MySQL, HTML, and CSS Additional Known Languages | Backend Projects | Problem
        Solving | Learning and Developing'**
