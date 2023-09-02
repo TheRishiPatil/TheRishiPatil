@@ -3,5 +3,5 @@
 
 <img align="right" src="gif.gif" width="300px">
 
-<p align="left" width="400px">👨‍💻 Engineering graduate from India with the cgpa of 8.30, passionate about software development. Skilled in Java, Spring Boot, DSA, and other well-known programming languages like MySQL, HTML, and CSS. Every coding project is constructed from the ground up, starting with the structuring and design of the webpages and continuing through the coding of the backend and frontend. Dedicated to solving complex problems through code and projects.</p>
+<p align="left" width="200px">👨‍💻 Engineering graduate from India with the cgpa of 8.30, passionate about software development. Skilled in Java, Spring Boot, DSA, and other well-known programming languages like MySQL, HTML, and CSS. Every coding project is constructed from the ground up, starting with the structuring and design of the webpages and continuing through the coding of the backend and frontend. Dedicated to solving complex problems through code and projects.</p>
 <h4>Socials:</h4>
