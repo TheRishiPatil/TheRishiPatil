@@ -8,8 +8,6 @@ CSS. Every coding project is constructed from the ground up, starting with the s
 webpages and continuing through the coding of the backend and frontend. Dedicated to solving complex problems
 through code and projects.</p>
 
-
-
 <h4>Socials:</h4>
 
 <p align="left">
@@ -30,7 +28,9 @@ through code and projects.</p>
 </a>
 </p>
 
+<img align="right" src="gif.gif" width="300px">
+
 <h4>Languages Used:</h4>
 <img align="left" src="language used.png" width="300px">
 
-<img align="right" src="gif.gif" width="300px">
+
