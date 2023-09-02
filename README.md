@@ -30,5 +30,5 @@ coding of the backend and frontend. Dedicated to solving complex problems throug
 <img src="instagram.png" alt="instagram" width="30px">
 </a>
 </div>
-<img src="gif.gif" width="500px">
+<img src="gif.gif" width="300px">
 </div>
