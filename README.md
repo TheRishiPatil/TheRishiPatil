@@ -10,7 +10,7 @@ CSS. Every coding project is constructed from the ground up, starting with the s
 webpages and continuing through the coding of the backend and frontend. Dedicated to solving complex problems
 through code and projects.</p>
 
-<img align="right" src="gif.gif" width="330px">
+<img align="right" src="gif.gif" width="350px">
 
 <h4>Socials:</h4>
 <p align="left">
