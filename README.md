@@ -1,3 +1,3 @@
-<img src="bg.jpg" alt="banner" width="100%">
+<img src="bg.jpg" alt="banner">
 
 ### Hi there 👋
