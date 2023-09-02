@@ -12,7 +12,7 @@
        <h4>Socials:</h4>
        <div>
            <a href="https://www.linkedin.com/in/patilrishikesh">
-               <img src="linkedin.png" alt="instagram" width="30px" style="margin-left: 50px;">
+               <img src="linkedin.png" alt="instagram" width="30px" style="padding-right: 100px;">
            </a>
            &nbsp; <a href="https://wa.me/919137108042">
                <img src="whatsapp.png" alt="instagram" width="30px">
