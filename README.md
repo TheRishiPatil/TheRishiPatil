@@ -8,13 +8,13 @@ Java, Spring Boot, and DSA Enthusiast | MySQL, HTML, and CSS Additional Known La
         <p>Social Handles:</p>
         <div>
             <a href="https://www.linkedin.com/in/patilrishikesh" >
-                <img src="linkedin.png" alt="instagram" width="30px">
+                <img src="linkedin.png" alt="instagram" width="30px" style="margin-left: 50px;">
             </a>
             <a href="https://wa.me/919137108042" >
                 <img src="whatsapp.png" alt="instagram" width="30px">
             </a>
             <a href="https://github.com/TheRishiPatil" >
-                <img class="social" src="github.png" alt="instagram" width="30px">
+                <img src="github.png" alt="instagram" width="30px">
             </a>
             <a href="https://twitter.com/Rishi9137108042" >
                 <img src="twitter.png" alt="instagram" width="30px">
