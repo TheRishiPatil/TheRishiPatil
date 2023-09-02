@@ -10,6 +10,8 @@ through code and projects.</p>
 
 <h4>Socials:</h4>
 
+<img align="right" src="gif.gif" width="300px">
+
 <p align="left">
 <a href="https://www.linkedin.com/in/patilrishikesh">
 <img src="linkedin.png" alt="instagram" width="30px">
@@ -27,8 +29,6 @@ through code and projects.</p>
 <img src="instagram.png" alt="instagram" width="30px">
 </a>
 </p>
-
-<img align="right" src="gif.gif" width="300px">
 
 <h4>Languages Used:</h4>
 <img align="left" src="language used.png" width="300px">
