@@ -5,9 +5,9 @@
 Java, Spring Boot, and DSA Enthusiast | MySQL, HTML, and CSS Additional Known Languages | Backend Projects | Problem Solving | Learning and Developing
 
  <div>
-        <p>Social Handles:</p>
+        <p>Socials:</p>
         <div>
-            <a href="https://www.linkedin.com/in/patilrishikesh" >
+            &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/patilrishikesh" >
                 <img src="linkedin.png" alt="instagram" width="30px" style="margin-left: 50px;">
             </a>
             <a href="https://wa.me/919137108042" >
