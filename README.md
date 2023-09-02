@@ -4,7 +4,7 @@
 
 <div>
     <p>Social Handles:</p>
-    <div style="width: 300px; display: flex; justify-content: space-between; margin-top: 10px;">
+    <div style="width: 300px; display: flex; justify-content: space-between;">
         <a href="https://www.linkedin.com/in/patilrishikesh" style="margin-right: 10px;">
             <img src="linkedin.png" alt="linkedin" width="30px">
         </a>
