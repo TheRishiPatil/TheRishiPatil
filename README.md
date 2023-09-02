@@ -21,6 +21,7 @@
     &nbsp; <a href="https://www.instagram.com/i_a_m_i_r_o_n_m_a_n/">
         <img src="instagram.png" alt="instagram" width="30px">
     </a>
+    <img src="gif.gif" width="500px">
 </div>
 
 <p>
