@@ -7,18 +7,18 @@
 **'Socials:'**
 <p>
     <a href="https://www.linkedin.com/in/patilrishikesh">
-        <img src="linkedin.png" alt="instagram" width="30px" style="padding-right: 100px;">
+        <img src="linkedin.png" alt="instagram" width="30px" style="padding-right: 100px;"/>
     </a>
-    &nbsp; <a href="https://wa.me/919137108042">
-        <img src="whatsapp.png" alt="instagram" width="30px">
+    <a href="https://wa.me/919137108042">
+        <img src="whatsapp.png" alt="instagram" width="30px"/>
     </a>
-    &nbsp; <a href="https://github.com/TheRishiPatil">
-        <img src="github.png" alt="instagram" width="30px">
+    <a href="https://github.com/TheRishiPatil">
+        <img src="github.png" alt="instagram" width="30px"/>
     </a>
-    &nbsp; <a href="https://twitter.com/Rishi9137108042">
-        <img src="twitter.png" alt="instagram" width="30px">
+    <a href="https://twitter.com/Rishi9137108042">
+        <img src="twitter.png" alt="instagram" width="30px"/>
     </a>
-    &nbsp; <a href="https://www.instagram.com/i_a_m_i_r_o_n_m_a_n/">
-        <img src="instagram.png" alt="instagram" width="30px">
+    <a href="https://www.instagram.com/i_a_m_i_r_o_n_m_a_n/">
+        <img src="instagram.png" alt="instagram" width="30px"/>
     </a>
 </p>
