@@ -7,19 +7,19 @@ Java, Spring Boot, and DSA Enthusiast | MySQL, HTML, and CSS Additional Known La
  <div>
         <p>Socials:</p>
         <div>
-            &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/patilrishikesh" >
+            <a href="https://www.linkedin.com/in/patilrishikesh" >
                 <img src="linkedin.png" alt="instagram" width="30px" style="margin-left: 50px;">
             </a>
-            <a href="https://wa.me/919137108042" >
+            &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://wa.me/919137108042" >
                 <img src="whatsapp.png" alt="instagram" width="30px">
             </a>
-            <a href="https://github.com/TheRishiPatil" >
+            &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/TheRishiPatil" >
                 <img src="github.png" alt="instagram" width="30px">
             </a>
-            <a href="https://twitter.com/Rishi9137108042" >
+            &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/Rishi9137108042" >
                 <img src="twitter.png" alt="instagram" width="30px">
             </a>
-            <a href="https://www.instagram.com/i_a_m_i_r_o_n_m_a_n/" >
+            &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/i_a_m_i_r_o_n_m_a_n/" >
                 <img src="instagram.png" alt="instagram" width="30px">
             </a>
         </div>
