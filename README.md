@@ -15,16 +15,13 @@ through code and projects.</p>
 <h4>Socials:</h4>
 <p align="left">
   <a href="https://www.linkedin.com/in/patilrishikesh">
-  <img src="linkedin.png" alt="instagram" width="30px">
+  <img src="linkedin.png" alt="linkedin" width="30px">
   </a>
   &nbsp; <a href="https://wa.me/919137108042">
-  <img src="whatsapp.png" alt="instagram" width="30px">
-  </a>
-  &nbsp; <a href="https://github.com/TheRishiPatil">
-  <img src="github.png" alt="instagram" width="30px">
+  <img src="whatsapp.png" alt="whatsapp" width="30px">
   </a>
   &nbsp; <a href="https://twitter.com/Rishi9137108042">
-  <img src="twitter.png" alt="instagram" width="30px">
+  <img src="twitter.png" alt="twitter" width="30px">
   </a>
   &nbsp; <a href="https://www.instagram.com/i_a_m_i_r_o_n_m_a_n/">
   <img src="instagram.png" alt="instagram" width="30px">
