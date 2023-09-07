@@ -33,8 +33,3 @@ through code and projects.</p>
 
 <h4>Languages Used:</h4>
 <img align="left" src="language used.png" width="300px">
-
-<h4>Certificates:</h4>
-<img align="left" src="AlgoExpert_Certificate.pdf" width="300px">
-
-
