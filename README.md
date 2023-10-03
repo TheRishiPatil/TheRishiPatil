@@ -28,5 +28,5 @@ through code and projects.</p>
   </a>
 </p>
 
-<h4>Languages Used:</h4>
+<h4>Languages Used in Projects:</h4>
 <img align="left" src="language used.png" width="300px">
