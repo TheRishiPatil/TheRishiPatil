@@ -5,7 +5,7 @@
 
 <h4>Portfolio: https://therishipatil.github.io/Portfolio/</h4>
 
-<p align="left">👨‍💻 Holds a PG-Diploma in Artificial Intelligence from CDAC Pune and a B.E. in Electronics Engineering from D. Y. Patil RAIT Mumbai. Proficient in Python, SQL, Java, deep neural network, machine learning algorithms and natural language processing, utilizing libraries such as Sklearn, Keras, NumPy, and Pandas. Skilled in frameworks like TensorFlow, PyTorch and Spring Boot. Solved DSA problems on websites like LeetCode, HackerRank, GeeksforGeeks and AlgoExpert. Gained knowledge in UI design using software's like Figma and Photoshop.</p>
+<p align="left">👨‍💻 Holds a PG-Diploma in Artificial Intelligence from CDAC Pune and a B.E. in Electronics Engineering from D. Y. Patil RAIT Mumbai. Proficient in Python, SQL, Java, deep neural network, machine learning algorithms and natural language processing, utilizing libraries and frameworks like LangChain, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, NLTK and Spring Boot, with hands on practice in both open-source and paid LLM models like Llama 2, OpenAI GPT and Hugging Face. Solved 250+ DSA problems on websites like LeetCode, HackerRank, GeeksforGeeks and AlgoExpert. Gained knowledge in UI design using software's like Figma and Photoshop.</p>
 
 <h4>Socials:</h4>
 <p>
