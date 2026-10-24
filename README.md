@@ -18,7 +18,7 @@
   &nbsp; <a href="https://twitter.com/Rishi9137108042">
   <img src="twitter.png" alt="twitter" width="30px">
   </a>
-  &nbsp; <a href="https://www.instagram.com/i_a_m_i_r_o_n_m_a_n/">
+  &nbsp; <a href="https://www.instagram.com/rishi_rich._/">
   <img src="instagram.png" alt="instagram" width="30px">
   </a>
 </p>
